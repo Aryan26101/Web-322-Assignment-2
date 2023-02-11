@@ -5,7 +5,7 @@
 * 
 *  Name: Aryan Rakeshbhai Rathod Student ID:129796215 Date: 01-02-2023
 *
-*  Cyclic Web App URL: 
+*  Cyclic Web App URL: https://doubtful-sunbonnet-bee.cyclic.app/about
 *
 *  GitHub Repository URL: https://github.com/Aryan26101/Web-322-Assignment-2
 *
