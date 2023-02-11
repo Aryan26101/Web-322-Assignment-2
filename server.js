@@ -7,23 +7,9 @@
 *
 *  Cyclic Web App URL: 
 *
-*  GitHub Repository URL: 
+*  GitHub Repository URL: https://github.com/Aryan26101/Web-322-Assignment-2
 *
 ********************************************************************************/ 
-
-
-
-var HTTP_PORT = process.env.PORT || 8080;
-var express = require("express");
-var app = express();
-
-
-app.get("/", (req, res) => {
-    res.send("Aryan Rakeshbhai Rathod 129796215");
-});
-
-app.listen(HTTP_PORT);
-
 
 
 var HTTP_PORT = process.env.PORT || 8080;
